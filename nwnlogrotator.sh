@@ -12,8 +12,10 @@ SRC_IN_DIR="${HOME}/.local/share/Neverwinter Nights/logs"
 # Some other good options could be "${HOME}/Documents/nwnlogs" maybe
 OUT_DIR="."
 
-# ------------------------------
+# The log file location. Probably don't need to change this.
 LOG_FILE="./nwnlogrotator_operations.log"
+
+# ------------------------------
 
 # Clean up the operations log
 > "$LOG_FILE"
