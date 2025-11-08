@@ -25,9 +25,42 @@ A Bash script to automatically organize and archive Neverwinter Nights: Enhanced
 
 ## Installation
 
-1. Clone or download the repository.
-2. Ensure the script is executable: `chmod +x nwnlogrotator.sh`
+1. Clone or download the repository:
+   ```bash
+   git clone https://github.com/yourusername/nwnlogrotator_linux.git
+   cd nwnlogrotator_linux
+   ```
+2. Ensure the script is executable:
+   ```bash
+   chmod +x nwnlogrotator.sh
+   ```
 3. Optionally, configure the source and output directories in the script (see Configuration below).
+
+### Setting Up for GitHub (Optional)
+
+To version control and share your organized logs on GitHub:
+
+1. **Option 1: Keep logs in the script directory (recommended for portability)**  
+   Leave `OUT_DIR="."` (default). This keeps logs as subdirectories within the script's folder, making the entire setup self-contained and portable. You can clone the repo anywhere and run the script without additional configuration.  
+   Initialize Git in the script directory:  
+   ```bash
+   git init
+   git remote add origin https://github.com/yourusername/nwnlogrotator_linux.git
+   ```
+
+2. **Option 2: Separate logs directory**  
+   Set `OUT_DIR` to a dedicated directory, e.g., `OUT_DIR="${HOME}/nwn_logs"`.  
+   Initialize a Git repository in your output directory:  
+   ```bash
+   mkdir -p "${HOME}/nwn_logs"
+   cd "${HOME}/nwn_logs"
+   git init
+   git remote add origin https://github.com/yourusername/nwn-logs.git
+   ```
+
+Keeping the initial folder (script directory) for GitHub enhances portability, as the entire repository—including the script, logs, and configuration—can be cloned and used on any machine without path dependencies. This is ideal for sharing or backing up your NWN logging setup.
+
+To enable automatic git commits and pushes after each run, set `ENABLE_GIT_AUTO_COMMIT=true` in the script. This will add, commit, and push all changes to the remote repository after processing logs.
 
 ## Usage
 
@@ -63,6 +96,7 @@ Edit the top of `nwnlogrotator.sh` to customize:
 - `SRC_IN_DIR`: Source directory for NWN logs (default: `${HOME}/.local/share/Neverwinter Nights/logs`)
 - `OUT_DIR`: Root output directory for organized logs (default: current directory `.`)
 - `LOG_FILE`: Path to the operations log file (default: `./nwnlogrotator_operations.log`)
+- `ENABLE_GIT_AUTO_COMMIT`: Enable automatic git commit and push after processing (default: `false`)
 
 ## Example Output Structure
 

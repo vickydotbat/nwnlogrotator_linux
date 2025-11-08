@@ -15,6 +15,9 @@ OUT_DIR="."
 # The log file location. Probably don't need to change this.
 LOG_FILE="./nwnlogrotator_operations.log"
 
+# Enable automatic git commit and push after processing all files (set to true to enable)
+ENABLE_GIT_AUTO_COMMIT=false
+
 # ------------------------------
 
 # Clean up the operations log
@@ -90,5 +93,15 @@ for f in "${SRC_IN_DIR}"/nwclientLog*.txt; do
     echo "[NWN Log Rotator]: ERROR - Failed to copy $f to $dest_path"
   fi
 done
+
+# Optional git auto-commit and push
+if [ "$ENABLE_GIT_AUTO_COMMIT" = true ]; then
+  echo "$(date '+%Y-%m-%d %H:%M:%S'): Starting git auto-commit and push" >> "$LOG_FILE"
+  if git add . && git commit -m "Auto-commit NWN logs $(date '+%Y-%m-%d %H:%M:%S')" && git push; then
+    echo "$(date '+%Y-%m-%d %H:%M:%S'): Git auto-commit and push successful" >> "$LOG_FILE"
+  else
+    echo "$(date '+%Y-%m-%d %H:%M:%S'): WARNING - Git auto-commit and push failed" >> "$LOG_FILE"
+  fi
+fi
 
 echo "$(date '+%Y-%m-%d %H:%M:%S'): NWN log rotator script completed" >> "$LOG_FILE"
