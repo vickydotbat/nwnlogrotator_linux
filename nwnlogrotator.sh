@@ -36,6 +36,13 @@ for f in "${SRC_IN_DIR}"/nwclientLog*.txt; do
 
   echo "$(date '+%Y-%m-%d %H:%M:%S'): Starting processing of file: ${f##*/}" >> "$LOG_FILE"
 
+  # Check if file has sufficient content (minimum 100 lines)
+  line_count=$(wc -l < "$f")
+  if [ "$line_count" -lt 100 ]; then
+    echo "$(date '+%Y-%m-%d %H:%M:%S'): Skipping file ${f##*/} - only $line_count lines (minimum 100 required)" >> "$LOG_FILE"
+    continue
+  fi
+
   # Get timestamp from the file
   echo "$(date '+%Y-%m-%d %H:%M:%S'): Extracting timestamp from ${f##*/}" >> "$LOG_FILE"
   rB=$(date -r "${f}" +"%B")              # Modified Month Name
