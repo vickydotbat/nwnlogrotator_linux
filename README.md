@@ -5,9 +5,10 @@ A Bash script to automatically organize and archive Neverwinter Nights: Enhanced
 ## Features
 
 - **Individual File Processing**: Processes each `nwclientLog` file individually from the source directory.
-- **Automatic Organization**: Creates a hierarchical directory structure based on the file's modification timestamp:
-  - `Year/MonthNum-MonthName/DayNum-DayName/`
-  - Example: `2025/11-November/08-Saturday/`
+- **Automatic Organization**: Creates a hierarchical directory structure based on timestamps extracted from log content:
+  - `/Year/MonthNum-MonthName/DayNum-DayName/`
+  - Example: `/2025/11-November/08-Saturday/`
+- **Smart File Splitting**: Automatically splits large log files at date boundaries when timestamps roll over to new days, ensuring each output file contains only one day's worth of logs.
 - **Unique Filenames**: Generates filenames like `nwclientLog_2025-11-08_143541.txt` using the file's timestamp. If a file with the same name already exists, appends an incremental number (e.g., `_2`, `_3`) to avoid overwriting.
 - **Content Cleaning**: Automatically cleans and formats log content:
   - Removes unwanted lines (player joins/leaves, loading screens, configurable patterns)
@@ -45,8 +46,8 @@ A Bash script to automatically organize and archive Neverwinter Nights: Enhanced
 
 To version control and share your organized logs on GitHub:
 
-1. **Option 1: Keep logs in the script directory (recommended for portability)**  
-   Leave `OUT_DIR="."` (default). This keeps logs as subdirectories within the script's folder, making the entire setup self-contained and portable. You can clone the repo anywhere and run the script without additional configuration.  
+1. **Option 1: Keep logs in the script directory (recommended for portability)**
+    Leave `OUT_DIR` as default (script directory). This keeps logs as subdirectories within the script's folder, making the entire setup self-contained and portable. You can clone the repo anywhere and run the script without additional configuration.
    Initialize Git in the script directory:  
    ```bash
    git init
@@ -77,36 +78,50 @@ Run the script manually or via a cron job:
 
 The script will:
 1. Scan for `nwclientLog*.txt` files in the source directory.
-2. For each file, extract its modification timestamp.
-3. Create the appropriate dated directory structure in the output directory.
-4. Copy the file with a unique timestamp-based name.
-5. Remove the original file.
-6. Log all actions and send notifications.
+2. For each file, extract timestamps from the log content and split at date boundaries if necessary.
+3. Process each date segment individually, extracting its timestamp.
+4. Create the appropriate dated directory structure in the output directory.
+5. Copy each segment with a unique timestamp-based name.
+6. Remove the original file.
+7. Log all actions and send notifications.
 
 ## Steam Launch Options
 
-To automatically run the log rotator before launching NWN via Steam:
+You can configure Steam to run the log rotator either before NWN starts or after it closes. Choose based on your preference for log freshness vs. reliability.
+
+### Option 1: Run Before Game Starts (Recommended)
+This ensures logs are processed even if the game crashes or freezes, but processed logs won't include the current session.
 
 1. Right-click NWN in your Steam library and select "Properties".
 2. In the "Launch Options" field, enter: `"/path/to/nwnlogrotator.sh && %command%"`
-   - Replace `/path/to/nwnlogrotator.sh` with the actual path to the script.
+    - Replace `/path/to/nwnlogrotator.sh` with the actual path to the script.
 3. If using tools like MangoHud or GameMode, place them between `&&` and `%command%`, e.g.: `"/path/to/nwnlogrotator.sh && mangohud %command%"`
 
-This ensures the script runs before the game starts each time.
+### Option 2: Run After Game Closes
+This processes logs from the current session, but logs won't be saved if the game or system crashes/freezes.
+
+1. Right-click NWN in your Steam library and select "Properties".
+2. In the "Launch Options" field, enter: `"%command%; /path/to/nwnlogrotator.sh"`
+    - Replace `/path/to/nwnlogrotator.sh` with the actual path to the script.
+
+**Warning**: If you choose Option 2, log files may not be processed if NWN crashes, freezes, or if your system loses power. Option 1 is recommended for most users to ensure reliable log processing.
 
 ## Configuration
 
 Edit the top of `nwnlogrotator.sh` to customize:
 
 - `SRC_IN_DIR`: Source directory for NWN logs (default: `${HOME}/.local/share/Neverwinter Nights/logs`)
-- `OUT_DIR`: Root output directory for organized logs (default: current directory `.`)
+- `OUT_DIR`: Root output directory for organized logs (default: directory containing the script)
 - `LOG_FILE`: Path to the operations log file (default: `./nwnlogrotator_operations.log`)
 - `ENABLE_GIT_AUTO_COMMIT`: Enable automatic git commit and push after processing (default: `false`)
 
 ## Example Output Structure
 
+By default, logs are organized within the script directory:
+
 ```
-output_directory/
+nwnlogrotator_linux/
+├── nwnlogrotator.sh
 ├── 2025/
 │   └── 11-November/
 │       └── 08-Saturday/
@@ -157,7 +172,7 @@ See `AGENTS.md` for coding conventions and guidelines for AI-assisted developmen
 ### Technical Details
 
 The script processes NWN log files through several stages:
-1. **File Splitting**: Uses awk to split large log files by date boundaries
+1. **File Splitting**: Uses awk to split large log files by date boundaries based on "[CHAT WINDOW TEXT]" timestamp patterns
 2. **Content Cleaning**: Removes unwanted lines (player joins/leaves, loading screens, etc.)
 3. **Timestamp Processing**: Converts NWN's chat timestamps to standard [HH:MM:SS] format
 4. **Deduplication**: Removes duplicate channel tags and non-timestamped lines
