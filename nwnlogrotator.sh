@@ -134,7 +134,7 @@ for f in "${SRC_IN_DIR}"/nwclientLog*.txt; do
     echo "$(date '+%Y-%m-%d %H:%M:%S'): Timestamp extracted: $rY-$rm-$rd $rH:$rM:$rS ($rB $rA)" >> "$LOG_FILE"
 
     # Add header to the part file
-    sed -i "1i$rB $rd, $rY" "$part_file"
+    sed -i "1i--------------------\\n$rB $rd, $rY\\n--------------------\\n" "$part_file"
     echo "$(date '+%Y-%m-%d %H:%M:%S'): Added header '$rB $rd, $rY' to $part_file" >> "$LOG_FILE"
 
     # Create the destination directory structure
