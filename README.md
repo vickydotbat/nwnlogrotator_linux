@@ -9,7 +9,12 @@ A Bash script to automatically organize and archive Neverwinter Nights: Enhanced
   - `Year/MonthNum-MonthName/DayNum-DayName/`
   - Example: `2025/11-November/08-Saturday/`
 - **Unique Filenames**: Generates filenames like `nwclientLog_2025-11-08_143541.txt` using the file's timestamp. If a file with the same name already exists, appends an incremental number (e.g., `_2`, `_3`) to avoid overwriting.
-- **Safe Operations**: 
+- **Content Cleaning**: Automatically cleans and formats log content:
+  - Removes unwanted lines (player joins/leaves, loading screens, configurable patterns)
+  - Strips "[CHAT WINDOW TEXT]" prefixes for cleaner readability
+  - Converts timestamps to standard [HH:MM:SS] format
+  - Removes duplicate channel tags and non-timestamped lines
+- **Safe Operations**:
   - Only creates directories that don't exist.
   - Never overwrites existing files.
 - **Cleanup**: Removes original log files after successful copying.
