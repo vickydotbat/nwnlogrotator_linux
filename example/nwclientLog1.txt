@@ -1,0 +1,397 @@
+
+--------------------------------------
+Messages for: Sun Nov  9 14:48:13 2025
+--------------------------------------
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:22] Welcome to Arelith!
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:22] Two-Handed Weapon Bonus Granted: +1 Attack Bonus
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:22] You have the Seagods' Blessing (Greater).
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:22] Loading Screen: DM run quests can be great fun but will quickly fall apart if every level 30 tries to muscle in.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:22] The Rust On Our Cogs has joined as a player..
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:23] Area Setting: [Rest] [Magic] [State] [Teleport] [Transfer] [Death]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:23] Arelith NWN Engine
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:23] You are fighting in subdual mode.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:25] =======================
+You have [713250] Award Points in your account ready to use.
+You have [109327] AP in this character that will be released on deletion.
+You have [0] historic playtime points stored. These points are slowly added to your account as you play. 
+You have clocked [0] out of [60] monthly hours.
+This character used [800000] AP.
+This character is subject to receive a partial AP refund.
+=======================
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:28] You receive a little roleplay bonus.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:28] The time is now 7:45.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:28] Water: 5.0% (-3.9%)
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:28] You are weakened by thirst.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:30] There are active messages in the Merchant Marine faction.  Use -factions to check them.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:57] Welcome to Arelith!
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:57] Don't forget you're able to -recommend your fellow players!
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:57] Your journal has been updated. 1. The Rules
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:57] Your journal has been updated. 2. Welcome and Tutorial
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:57] Your journal has been updated. 3. Reference - Arelith Console 
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:57] Your journal has been updated. 4. Reference - Item Level Restrictions
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:57] Your journal has been updated. 5. Reference - Languages & Emotes
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:57] Your journal has been updated. 6. Reference - New Epic Spells
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:57] Your journal has been updated. 7. Reference - Spell Changes
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:57] Your journal has been updated. 8.  Reference - Calendar
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:57] Your journal has been updated. 9. Contact Info
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:57] Loading Screen: Many players use the Steam Workshop to add extra portraits.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:58] Area Setting: [Magic] [State] [Teleport] [Transfer] [Death]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:58] Portalling...
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:58] You are portalling, you can't do anything right now.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:59] Welcome to Arelith!
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:59] Don't forget you're able to -recommend your fellow players!
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:59] Your journal has been updated. 1. The Rules
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:59] Your journal has been updated. 2. Welcome and Tutorial
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:59] Your journal has been updated. 3. Reference - Arelith Console 
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:59] Your journal has been updated. 4. Reference - Item Level Restrictions
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:59] Your journal has been updated. 5. Reference - Languages & Emotes
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:59] Your journal has been updated. 6. Reference - New Epic Spells
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:59] Your journal has been updated. 7. Reference - Spell Changes
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:59] Your journal has been updated. 8.  Reference - Calendar
+[CHAT WINDOW TEXT] [Sun Nov  9 14:48:59] Your journal has been updated. 9. Contact Info
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:00] Loading Screen: Try to leave some space in your inventory; you never know when you might need it.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:00] Area Setting: [Magic] [State] [Teleport] [Transfer] [Death]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:01] Loading Screen: Many players use the Steam Workshop to add extra portraits.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:01] Area Setting: [Magic] [State] [Teleport] [Transfer] [Death]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:01] Your disguise held up under scrutiny!
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:02] Arelith NWN Engine
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:02] You are fighting in subdual mode.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:02] Your disguise held up under scrutiny!
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:02] Your disguise held up under scrutiny!
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:05] STOP!!! Are you absolutely sure about deleting Lyre Mortlock? If so, type -delete_character again to launch the epic sacrifice menu.
+You are eligible for an award. If you do NOT wish to roll for an award, use the -remake_character command. You cannot remake a character you previously rolled for an award.
+This character has [0] award points that will be released to your persistent account on Sacrifice.
+A partial refund of [81250] AP will be issued.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:08] ''Ragged Halfling'': Lyre Mortlock has reached level 17, which is high enough to be rolled for an award.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:09] ''Ragged Halfling'': [Delete and roll for an Award]
+NOTE: You will not be able to roll another character for:
+- 3 months if you acquire a Major Award
+- 2 months if you acquire a Greater or Normal Award
+- 1 month if you acquire a Minor Award
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:09] ''Ragged Halfling'': Are you absolutely sure?
+
+Lyre Mortlock will be PERMANENTLY DELETED.
+
+Remember that you cannot remake a character you previously rolled for an award.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:13] ''Ragged Halfling'': [Confirm]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:13] Congratulations!  You earned 6000 award points!
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:13] Deleting character. You will be sent to the character selection screen, hold tight!
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:28] Welcome to Arelith!
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:28] Two-Handed Weapon Bonus Granted: +1 Attack Bonus
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:28] You have the Seagods' Blessing (Greater).
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:29] Loading Screen: Taunt is a useful skill to break an enemy's concentration.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:29] Area Setting: [Rest] [Magic] [State] [Teleport] [Transfer] [Death]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:29] Arelith NWN Engine
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:29] You are fighting in subdual mode.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:32] You have refreshed your shop.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:36] 16 items saved. Shops have a limit of 30 items.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:36] There are active messages in the Merchant Marine faction.  Use -factions to check them.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:37] The Merchant Marine Outlet | Bounties of the Sea!: This is your shop.
+
+You can change your offer by adding or removing items to/from the shop inventory. A maximum of 30 items can be placed permanently in it. If another player buys an item from your shop, the payment is credited to your bank account. Items are sold at 100% of the value. Remember to check the inventory at least once every 14 days, 0 hours and 0 minutes (realtime) or other players may take over your shop.
+
+ The maintenance cost of your shop is the responsibility of the owner of the guildhall. The current montly maintenance cost for the shop is 315 gold.
+
+The current tax rate for your settlement is   7.00%
+
+This shop is associated with faction Merchant Marine and the factions receives 100.00% of sale revenue.
+
+
+Requires the following to own:
+
+Must not be one of the following Races,
+ - An Aasimar.
+ - An Elf, of any kind.
+ - An Underdark exclusive race, except for Minotaur and Gnoll.
+ - A Gith, of any kind.
+ - Be a part of the nation of Sibayad. Bidding requires you must be able to vote in addition to this.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:37] Nieri Aetherforge: [View Sales Log]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:37] The Merchant Marine Outlet | Bounties of the Sea!: This is a record of this shop's most recent sales, after applicable settlement taxes:
+
+1 x Bottled Midnight sold for 13,800 gold, at 22:02 on Day 15 Month 9 187 AR.
+1 x Headbag (Greater) sold for 13,800 gold, at 06:00 on Day 17 Month 9 187 AR.
+1 x Headbag (Greater) sold for 13,800 gold, at 06:00 on Day 17 Month 9 187 AR.
+1 x Headbag (Greater) sold for 13,800 gold, at 06:00 on Day 17 Month 9 187 AR.
+9 x Desert Flower sold for 8,280 gold, at 06:00 on Day 17 Month 9 187 AR.
+1 x Headbag (Greater) sold for 13,800 gold, at 06:00 on Day 17 Month 9 187 AR.
+2 x Fragments of Theurglass sold for 165,600 gold, at 20:03 on Day 18 Month 9 187 AR.
+1 x Runic Sequencer (Petrified Bluewood, Greater, Druidic) sold for 9,200 gold, at 07:13 on Day 18 Month 9 187 AR.
+1 x Book Bag (Enchanted) sold for 13,800 gold, at 22:02 on Day 19 Month 9 187 AR.
+1 x Lucky Fish Hook sold for 4,600 gold, at 13:06 on Day 19 Month 9 187 AR.
+4 x Corrosive Acid sold for 77,280 gold, at 13:07 on Day 19 Month 9 187 AR.
+1 x Flawed Chardalyn Stone sold for 4,600 gold, at 06:14 on Day 21 Month 9 187 AR.
+1 x Goggles of Minute Seeing sold for 4,600 gold, at 06:14 on Day 21 Month 9 187 AR.
+1 x Eyes of Savras sold for 9,200 gold, at 01:18 on Day 22 Month 9 187 AR.
+100 x Coal sold for 9,200 gold, at 20:06 on Day 24 Month 9 187 AR.
+100 x Coal sold for 9,200 gold, at 20:06 on Day 24 Month 9 187 AR.
+1 x Demonically Delicious Decanter sold for 138,000 gold, at 03:07 on Day 24 Month 9 187 AR.
+1 x Hunting Bag (Greater) sold for 23,000 gold, at 22:05 on Day 25 Month 9 187 AR.
+1 x Lantanese Ring +1 sold for 27,600 gold, at 07:17 on Day 28 Month 9 187 AR.
+1 x Silver Bell sold for 9,200 gold, at 17:08 on Day 2 Month 10 187 AR.
+1 x Goggles of Minute Seeing sold for 4,600 gold, at 23:12 on Day 3 Month 10 187 AR.
+1 x Divine Artificer's Staff (Spell Resistance) sold for 46,000 gold, at 04:03 on Day 4 Month 10 187 AR.
+1 x Greater Gloves of Appraisal sold for 4,600 gold, at 23:03 on Day 5 Month 10 187 AR.
+1 x Goggles of Minute Seeing sold for 4,600 gold, at 23:06 on Day 5 Month 10 187 AR.
+1 x Sickle of the Eel sold for 202,400 gold, at 12:05 on Day 6 Month 10 187 AR.
+1 x Sickle of the Dolphin sold for 202,400 gold, at 12:05 on Day 6 Month 10 187 AR.
+1 x Belt of Seeing sold for 4,600 gold, at 06:04 on Day 8 Month 10 187 AR.
+1 x Greater Gem of Nullification sold for 46,000 gold, at 18:03 on Day 9 Month 10 187 AR.
+1 x Greater Gloves of Appraisal sold for 4,600 gold, at 00:03 on Day 13 Month 10 187 AR.
+1 x Headbag (Greater) sold for 13,800 gold, at 11:15 on Day 14 Month 10 187 AR.
+1 x Headbag (Greater) sold for 13,800 gold, at 11:16 on Day 14 Month 10 187 AR.
+1 x Ship Weapon: Bombardette sold for 9,200 gold, at 15:19 on Day 15 Month 10 187 AR.
+1 x Siege Weapon: Bombardette sold for 9,200 gold, at 15:19 on Day 15 Month 10 187 AR.
+1 x Siege Weapon: Bombardette sold for 9,200 gold, at 15:19 on Day 15 Month 10 187 AR.
+2 x Wyrdstone (Succor) sold for 18,400 gold, at 08:07 on Day 19 Month 10 187 AR.
+5 x Essence (+1d6 Positive Energy Damage, temporary) sold for 1,840 gold, at 19:06 on Day 20 Month 10 187 AR.
+1 x Gloves of Discipline sold for 4,140 gold, at 21:03 on Day 23 Month 10 187 AR.
+1 x Headbag (Greater) sold for 13,800 gold, at 21:04 on Day 23 Month 10 187 AR.
+1 x Book Bag (Enchanted) sold for 13,800 gold, at 21:06 on Day 23 Month 10 187 AR.
+1 x Rod of Faerie Fire sold for 4,600 gold, at 05:03 on Day 23 Month 10 187 AR.
+1 x Eternal Order Boots sold for 11,040 gold, at 02:10 on Day 28 Month 10 187 AR.
+1 x Book Bag (Enchanted) sold for 13,800 gold, at 18:09 on Day 3 Month 11 187 AR.
+1 x Dragonslayer (Peridan) sold for 110,400 gold, at 19:00 on Day 5 Month 11 187 AR.
+1 x Warrior's Resolve sold for 11,040 gold, at 20:06 on Day 5 Month 11 187 AR.
+1 x Book Bag (Enchanted) sold for 9,200 gold, at 23:17 on Day 19 Month 11 187 AR.
+1 x Greater Gem of Nullification sold for 46,000 gold, at 19:19 on Day 20 Month 11 187 AR.
+1 x Sustaining Spoon sold for 230,000 gold, at 19:19 on Day 20 Month 11 187 AR.
+1 x Ring of Hiding sold for 23,000 gold, at 23:03 on Day 20 Month 11 187 AR.
+1 x Intact Theurglass sold for 596,160 gold, at 04:18 on Day 20 Month 11 187 AR.
+1 x Vial of Blueleaf Extract sold for 36,800 gold, at 16:07 on Day 21 Month 11 187 AR.
+  
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:54] Loading Screen: A player is only permitted to own one shop and one quarter across all of their characters.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:55] Area Setting: [PvP] [Rest] [Magic] [State] [Teleport] [Transfer] [Death]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:49:55] Warm gusts of wind ripple the air here, and there are a worrying number of clouds casting shadows over the earth. We might experience thunderstorms, so be careful.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:03] Day 24, Month 11 (Uktar), 1387 DR (187 AR)
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:03] The current moon phase is Waxing Gibbous.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:03] The time is currently 7:45.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:03] Current Roleplay Bonus: 40
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:03] Available Crafting Points: 93
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:03] Stored Adventuring XP: 55033
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:03] Food: 53.1%
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:03] Water: -3.9%
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:03] Rest: -7.5%
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:03] Piety: 100.0%
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:03] Your expertise in Dweomercraft is Tier 3 (mundane).
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:03] Your patron is Gond.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:03] You are a citizen of Sibayad
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:20] Loading Screen: Try to leave some space in your inventory; you never know when you might need it.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:20] Area Setting: [Magic] [State] [Teleport] [Transfer] [Death]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:20] The desert is baked with pervasive, inescapable heat; a haze blurs the horizon.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:20] You recall this area from your earlier travels (Map explored)
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:38] Loading Screen: Arelith is a full PvP environment, but there is a 48-hour rule if you die in PvP, and roleplay is always expected beforehand.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:39] Area Setting: [Magic] [State] [Teleport] [Transfer] [Death]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:43] Remember, you can only steal one item in any 24 hour (RL) period from any player. We have detailed logs to check...
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:43] Your settlement is allowing you to keep 12 items.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:43] Items previously left behind: Falchion (Masterly Damask), Gonne, Vial of Preserved Blood, Euklian Clay, Abeyant Template, Flawed Chardalyn Stone, Enhanced Boots of Reflexes , Rough Fragments of Theurglass, Dwarven Incantation, Skull Emblem, Chunk of Zardazik, 
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:45] ogoNg35 has left as a player..
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:46] 11 items saved. This chest has a limit of 12 items.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:54] Acquired Item: Rock Chunk (Adamantine)
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:54] Lost Item: Rock Chunk (Adamantine)
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:54] The Gilded Mirage: Potions - Rare Prisms - Divine Scrolls: Do you want to buy the article Rock Chunk (Adamantine) (Stack Size: 26) for 845,000?
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:54] Nieri Aetherforge: [Buy part of stack]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:54] The Gilded Mirage: Potions - Rare Prisms - Divine Scrolls: How much of Rock Chunk (Adamantine) do you want to purchase?
+[CHAT WINDOW TEXT] [Sun Nov  9 14:50:55] Nieri Aetherforge: [Done]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:51:09] Merchant League Guard: You wish that I open the door to the private office?
+[CHAT WINDOW TEXT] [Sun Nov  9 14:51:10] Nieri Aetherforge: Yes, do it.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:51:10] Merchant League Guard: As you wish.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:51:10] Merchant League Guard: [Something has opened.]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:51:10] [Talk] Merchant League Guard [Something has opened.]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:51:13] Key: [Something has closed.]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:51:13] [Talk] Key [Something has closed.]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:51:26] At Journey's End has joined as a player..
+[CHAT WINDOW TEXT] [Sun Nov  9 14:51:33] Administration of {Sibayad}: Internal Communications: [Select action]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:51:33] Nieri Aetherforge: [Use object]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:51:33] Administration of {Sibayad}: Internal Communications: Message board loaded.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:51:33] Nieri Aetherforge: [Continue]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:51:33] Administration of {Sibayad}: Internal Communications: Select the message you want to read.
+
+To post a message use a writing on this board. You can create writings by using writing paper.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:51:38] Nieri Aetherforge: Letter of Herald by Sinaid Ruharin
+[CHAT WINDOW TEXT] [Sun Nov  9 14:51:38] Administration of {Sibayad}: Internal Communications: Letter of Herald
+
+To be brief and prudent.
+
+I once maintained office of Grand Diplomat of Sibayad, and have now entered similar office under name of Lord-Herald.
+
+People of your nation may reach for me if there is political themes or diplomatic considerations to address. This includes matters of law.
+
+Get in touch with me directly, or by leaving letter to family shop inside Sibayad's Merchant's League building. You may also contact my aide, Zelsamir Ruharin.
+
+HERALD OF SIBAYAD,
+
+A seal is stamped in gold wax, depicting a sunburst with radiant edges. Within the sun, a scarlet quill glitters with ruby dust in the gold wax.
+
+        Day 21, Month 11 (Uktar), 1387 DR (187 AR)
+        Sinaid Ruharin        
+[CHAT WINDOW TEXT] [Sun Nov  9 14:51:46] Nieri Aetherforge: Council Meeting by Eduard Helbrecht
+[CHAT WINDOW TEXT] [Sun Nov  9 14:51:46] Administration of {Sibayad}: Internal Communications: Council Meeting
+
+Hopefully this time we can have a proper meeting. Though, I would ask that all attendees try and stay on topic and come prepared with an update in their respective areas. We have a fair bit to get through.
+
+AGENDA
+
+1) Trade, Warehouse & Treasury update
+2) Staff Movements
+3) Arbiter Update
+4) Security Concerns
+5) Law Progress Update
+6) Diplomacy Update
+7) Marine Update
+8) Law Progress Update
+9) Events & Resource Drives
+10) General Concerns, Questions & Feedback
+
+<<:>>:<<:>>:<<:>>:<<:>>
+
+When: 00:45 on day 28 of month 11 (Uktar), 187 AR (1387 DR)
+
+(( Monday Nov. 10th - 8:30pm CEST / 2:30pm EST
+
+CHRONUS: https://a.chronus.eu/1C04DD2 ))
+
+Where: Manse Maroon
+
+<<:>>:<<:>>:<<:>>:<<:>>
+
+        Day 14, Month 11 (Uktar), 1387 DR (187 AR)
+        Eduard Helbrecht        
+[CHAT WINDOW TEXT] [Sun Nov  9 14:51:53] Nieri Aetherforge: [Done]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:07] Key: [Something has opened.]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:07] [Talk] Key [Something has opened.]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:18] Nieri Aetherforge: .
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:18] [Talk] Nieri Aetherforge .
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:19] Banker: [Current balance: 1,460,000]
+
+You can have a loan of up to 1,000 gold from the bank.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:19] Nieri Aetherforge: [Deposit]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:19] Banker: [Please speak the amount to deposit then press Continue to deposit it]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:20] Nieri Aetherforge: [Continue]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:20] Lost 122133GP
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:20] Banker: [Current balance: 1,582,133]
+
+You can have a loan of up to 1,000 gold from the bank.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:21] Your character has been saved.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:24] Nieri Aetherforge: 2133
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:24] [Talk] Nieri Aetherforge 2133
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:24] Nieri Aetherforge: [Withdraw]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:24] Banker: [Please speak the amount to withdraw then press Continue to withdraw it]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:24] Nieri Aetherforge: [Continue]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:24] Acquired 2133GP
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:24] Banker: [Current balance: 1,580,000]
+
+You can have a loan of up to 1,000 gold from the bank.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:25] Your character has been saved.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:27] Nieri Aetherforge: [Factions]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:27] Banker: [Please select a faction from the following list]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:28] Nieri Aetherforge: Merchant Marine
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:28] Banker: [Current balance in Merchant Marine: 2,845,020]
+
+You can have a loan of up to 1,000 gold from the bank.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:29] Nieri Aetherforge: [Account History]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:29] Banker: Withdrawal by Nieri Aetherforge: (202,400) at 16:02 on Day 6 Month 10 187 AR.
+Withdrawal by Nieri Aetherforge: (67,500) at 06:15 on Day 11 Month 10 187 AR.
+Transfer from Clockwork Aegis: 80,908 at 06:16 on Day 11 Month 10 187 AR.
+Deposit from Eduard Helbrecht: 10,000 at 08:08 on Day 16 Month 10 187 AR.
+Withdrawal by Nieri Aetherforge: (500,000) at 18:01 on Day 21 Month 10 187 AR.
+Transfer from Nieri Aetherforge: 875,000 at 15:15 on Day 22 Month 10 187 AR.
+Transfer from Clockwork Aegis: 49,866 at 00:05 on Day 4 Month 11 187 AR.
+Deposit from Eduard Helbrecht: 7,500 at 16:05 on Day 5 Month 11 187 AR.
+Deposit from Eduard Helbrecht: 15,000 at 15:02 on Day 6 Month 11 187 AR.
+Withdrawal by Nieri Aetherforge: (188,750) at 13:01 on Day 10 Month 11 187 AR.
+Transfer from Clockwork Aegis: 76,167 at 13:07 on Day 10 Month 11 187 AR.
+Transfer from Tosh'rei: 8,000 at 23:09 on Day 13 Month 11 187 AR.
+Withdrawal by Nieri Aetherforge: (69,160) at 07:04 on Day 21 Month 11 187 AR.
+Deposit from Nieri Aetherforge: 69,160 at 07:04 on Day 21 Month 11 187 AR.
+Withdrawal by Nieri Aetherforge: (596,160) at 07:04 on Day 21 Month 11 187 AR.
+  
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:35] Calypso7777 has joined as a player..
+[CHAT WINDOW TEXT] [Sun Nov  9 14:52:36] Calypso7777 has left as a player..
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:04] Sibayadi Arbitration and Merchant Marine Recruitment Board {Defense & Arbitration}: [Select action]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:04] Nieri Aetherforge: [Use object]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:04] Sibayadi Arbitration and Merchant Marine Recruitment Board {Defense & Arbitration}: Message board loaded.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:05] Nieri Aetherforge: [Continue]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:05] Sibayadi Arbitration and Merchant Marine Recruitment Board {Defense & Arbitration}: Select the message you want to read.
+
+To post a message use a writing on this board. You can create writings by using writing paper.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:08] {Sibayad} Ship Registry: [Select action]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:08] Nieri Aetherforge: [Use object]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:08] {Sibayad} Ship Registry: Message board loaded.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:08] Nieri Aetherforge: [Continue]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:08] {Sibayad} Ship Registry: Select the message you want to read.
+
+To post a message use a writing on this board. You can create writings by using writing paper.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:11] Reports, Solicitations, Etc. for the Sibayad Merchant League: Message board loaded.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:12] Nieri Aetherforge: [Continue]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:12] Reports, Solicitations, Etc. for the Sibayad Merchant League: Select the message you want to read.
+
+To post a message use a writing on this board. You can create writings by using writing paper.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:12] deserk has left as a player..
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:20] The Merchant Marine is Currently Sailing!: [Select action]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:20] Nieri Aetherforge: [Take object]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:20] Acquired Item: Fixture: Signboard
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:20] (That fixture does not seem to belong to you. Please note that removing other people's fixtures without RP is a breach of the Be Nice rule, and that we log every act of vandalism.)
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:23] You receive a little roleplay bonus.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:23] The time is now 8:00.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:23] Food: -1.0% (52.1%)
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:23] Water: 2.5% (-1.4%)
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:23] You are weakened by thirst.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:23] Rest: -2.1% (-9.6%)
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:23] You are weakened by exhaustion.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:37] Nieri Aetherforge casting Aura of Glory
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:43] Nieri Aetherforge casting Sustenance
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:45] Nieri Aetherforge casts Sustenance
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:45] Rest: 10.0% (0.4%)
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:45] You are exhausted.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:45] Food: 50.0% (100.0%)
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:45] Water: 50.0% (48.6%)
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:49] Nieri Aetherforge casting Sustenance
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:51] Nieri Aetherforge casts Sustenance
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:51] Rest: 10.0% (10.4%)
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:51] You are exhausted.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:51] Water: 50.0% (98.6%)
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:55] Nieri Aetherforge uses item's special power.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:55] You've put the item into the container.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:53:55] Lost Item: a writing paper
+[CHAT WINDOW TEXT] [Sun Nov  9 14:54:01] Nieri Aetherforge uses item's special power.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:54:01] Lost Item: "So! You met a fey!"
+[CHAT WINDOW TEXT] [Sun Nov  9 14:54:07] Nieri Aetherforge uses item's special power.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:54:07] Lost Item: "3/11/187 ' Sylvar Fey Deal"
+[CHAT WINDOW TEXT] [Sun Nov  9 14:54:13] Nieri Aetherforge uses item's special power.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:54:13] Lost Item: "The Moonstone College Presents... THE GOLEM'S DILEMMA"
+[CHAT WINDOW TEXT] [Sun Nov  9 14:54:19] Nieri Aetherforge uses item's special power.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:54:19] You've put the item into the container.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:54:19] Lost Item: a writing paper
+[CHAT WINDOW TEXT] [Sun Nov  9 14:54:28] Loading Screen: Ignorance of the rules is no excuse! The complete rules list can be viewed at wiki.nwnarelith.com/Rules.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:54:28] Area Setting: [Magic] [State] [Teleport] [Transfer] [Death]
+[CHAT WINDOW TEXT] [Sun Nov  9 14:54:28] The desert is baked with pervasive, inescapable heat; a haze blurs the horizon.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:54:49] Nieri Aetherforge: "Hm... where are all my sailors?"
+[CHAT WINDOW TEXT] [Sun Nov  9 14:54:49] [Talk] Nieri Aetherforge "Hm... where are all my sailors?"
+[CHAT WINDOW TEXT] [Sun Nov  9 14:55:06] Rahni Mirina: ... It usually is busier by now.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:55:06] [Talk] Rahni Mirina ... It usually is busier by now.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:55:19] UggaeZero has joined as a player..
+[CHAT WINDOW TEXT] [Sun Nov  9 14:55:21] bagindawud has joined as a player..
+[CHAT WINDOW TEXT] [Sun Nov  9 14:55:34] U82hJez has joined as a player..
+[CHAT WINDOW TEXT] [Sun Nov  9 14:56:50] cOfclkn has joined as a player..
+[CHAT WINDOW TEXT] [Sun Nov  9 14:57:18] ''Quinn Wynethren'': Im on time!
+[CHAT WINDOW TEXT] [Sun Nov  9 14:57:18] [Talk] Quinn Wynethren Im on time!
+[CHAT WINDOW TEXT] [Sun Nov  9 14:57:21] bagindawud has left as a player..
+[CHAT WINDOW TEXT] [Sun Nov  9 14:57:28] Rahni Mirina: There's one!
+[CHAT WINDOW TEXT] [Sun Nov  9 14:57:28] [Talk] Rahni Mirina There's one!
+[CHAT WINDOW TEXT] [Sun Nov  9 14:57:38] ''Quinn Wynethren'': *Looks around* I was the first I take it?
+[CHAT WINDOW TEXT] [Sun Nov  9 14:57:38] [Talk] Quinn Wynethren *Looks around* I was the first I take it?
+[CHAT WINDOW TEXT] [Sun Nov  9 14:57:46] Rahni Mirina: You're apparently the only.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:57:46] [Talk] Rahni Mirina You're apparently the only.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:57:47] UggaeZero has left as a player..
+[CHAT WINDOW TEXT] [Sun Nov  9 14:57:50] ''Quinn Wynethren'': Huh.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:57:50] [Talk] Quinn Wynethren Huh.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:58:04] ''Quinn Wynethren'': Well... I will give myself the donation I had for the crew then
+[CHAT WINDOW TEXT] [Sun Nov  9 14:58:04] [Talk] Quinn Wynethren Well... I will give myself the donation I had for the crew then
+[CHAT WINDOW TEXT] [Sun Nov  9 14:58:15] UggaeZero has joined as a player..
+[CHAT WINDOW TEXT] [Sun Nov  9 14:58:26] You receive a little roleplay bonus.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:58:26] The time is now 8:15.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:58:26] The heat is blazing here! You should wear something to protect your face and hands, if you can.
+[CHAT WINDOW TEXT] [Sun Nov  9 14:58:26] Food: -1.0% (99.0%)
+[CHAT WINDOW TEXT] [Sun Nov  9 14:58:26] Water: 2.5% (100.0%)
+[CHAT WINDOW TEXT] [Sun Nov  9 14:58:26] Rest: -2.1% (8.3%)
+[CHAT WINDOW TEXT] [Sun Nov  9 14:58:26] You are exhausted.

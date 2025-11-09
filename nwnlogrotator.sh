@@ -23,7 +23,6 @@ ENABLE_GIT_AUTO_COMMIT=false
 CLEANUP_PATTERNS=(
   "has left as a player"
   "has joined as a player"
-  "\[Talk\]"
   "Loading Screen"
 )
 
@@ -114,19 +113,6 @@ for f in "${SRC_IN_DIR}"/nwclientLog*.txt; do
     sed -i 's/^\[\w\+ \w\+ \+[0-9]\+ \([0-9:]\+\)\]/[\1]/' "$part_file"
     echo "$(date '+%Y-%m-%d %H:%M:%S'): Converted timestamps to [HH:MM:SS] format in $part_file" >> "$LOG_FILE"
 
-    # Remove duplication lines with channel tags immediately after timestamp
-    temp_file="${part_file}.dup"
-    grep -v '^\[[0-9][0-9]:[0-9][0-9]:[0-9][0-9]\] \[\w\+\]' "$part_file" > "$temp_file"
-    mv "$temp_file" "$part_file"
-    echo "$(date '+%Y-%m-%d %H:%M:%S'): Removed duplication lines with channel tags after timestamp from $part_file" >> "$LOG_FILE"
-
-
-
-    # Remove lines without timestamps (keep only lines starting with [HH:MM:SS])
-    temp_file="${part_file}.temp"
-    grep '^\[[0-9][0-9]:[0-9][0-9]:[0-9][0-9]\]' "$part_file" > "$temp_file"
-    mv "$temp_file" "$part_file"
-    echo "$(date '+%Y-%m-%d %H:%M:%S'): Removed lines without timestamps from $part_file" >> "$LOG_FILE"
     if [ -z "$first_ts" ]; then
       echo "$(date '+%Y-%m-%d %H:%M:%S'): No timestamp in $part_file, skipping" >> "$LOG_FILE"
       rm -f "$part_file"
@@ -146,6 +132,10 @@ for f in "${SRC_IN_DIR}"/nwclientLog*.txt; do
     rM=$(date -d "$full_date" +"%M")
     rS=$(date -d "$full_date" +"%S")
     echo "$(date '+%Y-%m-%d %H:%M:%S'): Timestamp extracted: $rY-$rm-$rd $rH:$rM:$rS ($rB $rA)" >> "$LOG_FILE"
+
+    # Add header to the part file
+    sed -i "1i$rB $rd, $rY" "$part_file"
+    echo "$(date '+%Y-%m-%d %H:%M:%S'): Added header '$rB $rd, $rY' to $part_file" >> "$LOG_FILE"
 
     # Create the destination directory structure
     dest_dir="${OUT_DIR}/${rY}/${rm}-${rB}/${rd}-${rA}"
